@@ -30,7 +30,7 @@ AfterMidnight brings the suspense and tension of survival horror to life. Inspir
 
 **Team:** Ana Teresa Fernandes, João Pedro Guerreiro, Nuno Castro, Teresa Duarte
 
-https://github.com/JoaoPedroGuerreiro/Assets/demofinal.mp4/demofinal.mp4
+https://github.com/JoaoPedroGuerreiro/Assets/blob/main/demofinal.mp4/demofinal.mp4
 
-https://github.com/JoaoPedroGuerreiro/Assets/wanted.jpeg
+![5pqC+B](https://github.com/JoaoPedroGuerreiro/Assets/blob/main/wanted.jpeg)
 
