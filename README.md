@@ -35,5 +35,8 @@ AfterMidnight brings the suspense and tension of survival horror to life. Inspir
   Your browser does not support the video tag.
 </video>
 
+[![Watch the Demo](https://img.youtube.com/vi/dGv1T3c9hgc/0.jpg)](https://www.youtube.com/watch?v=dGv1T3c9hgc)
+
+
 ![5pqC+B](https://github.com/JoaoPedroGuerreiro/Assets/blob/main/wanted.jpeg)
 
