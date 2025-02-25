@@ -6,7 +6,7 @@
 
 ⚡ This game was created during a Game Jam week at the bootcamp, just 4 weeks into learning Java! ⚡
 
-# overview
+# Overview
 
 **AfterMidnight** is a suspenseful single-player game built in **Java**, showcasing fundamental skills in:
 
